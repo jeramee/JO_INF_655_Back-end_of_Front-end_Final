@@ -1,9 +1,11 @@
+// server.js
+require("dotenv").config();
 const express = require('express');
 const mongoose = require('mongoose');
 const recipesRouter = require('./routes/recipes');
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3001;
 
 // Connect to MongoDB
 mongoose.connect('mongodb://localhost:27017/your-database-name', {

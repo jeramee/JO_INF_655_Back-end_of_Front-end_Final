@@ -32,10 +32,10 @@ npm start
 2. Access the API endpoints as described in the project requirements.
 
 ## Deployment
-The project is deployed on Glitch for easy access. You can find the deployed project [here](<insert_deployed_project_link>).
+The project is deployed on Linode for easy access. You can find the deployed project [here](<insert_deployed_project_link>).
 
 ## API Documentation
-Detailed API documentation can be found [here](<insert_api_documentation_link>).
+Detailed API documentation can be found [https://expressjs.com/en/5x/api.html](<insert_api_documentation_link>).
 
 ## Technologies Used
 - Node.js
@@ -46,7 +46,7 @@ Detailed API documentation can be found [here](<insert_api_documentation_link>).
 - cors
 
 ## Credits
-- Created by [Your Name]
+- Created by Jeramee
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
